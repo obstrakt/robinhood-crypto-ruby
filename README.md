@@ -1,3 +1,18 @@
+# Environment
+
+## Install ruby 
+
+- https://www.ruby-lang.org/en/documentation/installation/
+
+### This code requires a few gems in the Gemfile
+
+- Run this to install all reqired code dependencies
+    ```bundle install```
+
+
+
+
+
 # Disclaimer That You Won't Read
 
 ## Bug Warning
